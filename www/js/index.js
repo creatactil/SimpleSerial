@@ -47,7 +47,7 @@ var app = {
         // if isEnabled returns failure, this function is called:
         var notEnabled = function() {
             app.display("Bluetooth is not enabled.")
-			alert (notEnabled);
+			
 			
         }
 
